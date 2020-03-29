@@ -25,4 +25,4 @@ The analysis of the election shows:
   - Diana DeGette received 73.8% (272,892) of the votes.
   - Raymon Anthony Doane received 3.1% (11,606) of the votes.
 - Winning candidate was:
-  - Diana DeGette with 272,892 votes (73.8% of total votes cast)
+  - Diana DeGette with 272,892 votes (73.8% of total votes cast).
