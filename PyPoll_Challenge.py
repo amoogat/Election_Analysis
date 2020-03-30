@@ -5,7 +5,7 @@ file_to_load = os.path.join("Resources", "election_results.csv")
 # creates a file to write to
 file_to_save = os.path.join("analysis", "election_analysis.txt")
 
-# initializes variable for total votes
+# initializes variable for total # of votes
 total_votes = 0
 #initializes the candidate and county options
 candidate_options = []
