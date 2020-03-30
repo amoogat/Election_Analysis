@@ -4,7 +4,7 @@
 Uses Python to analyze election results based on given file regarding a recent congressional election.
 
 1. Calculate total number of votes cast.
-2. Get coplete list of candidate names.
+2. Get complete list of candidate names.
 3. Calculate the total number of votes that every candidate received. 
 4. Calculate % of votes that each candidate won.
 5. Determine the winner of the election based on the popular vote. 
