@@ -36,6 +36,7 @@ with open(file_to_load) as election_data:
 
 		# adds vote to the value of the key which is candidates name
 		candidate_votes[candidate] += 1
+		
 	with open(file_to_save, "w") as txt_file:
 		# Print the final vote count to the terminal.
 		election_results = (
