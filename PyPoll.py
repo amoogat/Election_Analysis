@@ -75,6 +75,3 @@ with open(file_to_load) as election_data:
 		print(winning_candidate_summary)
 		#save winning candidatest summary to txt file
 		txt_file.write(winning_candidate_summary)
-		
-
-
