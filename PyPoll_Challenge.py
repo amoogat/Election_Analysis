@@ -98,7 +98,7 @@ with open(file_to_load) as election_data:
 			f"Largest County Turnout: {winning_county}\n"
 			f"-------------------------\n\n")
 		print(winning_county_summary)
-		# writes winning county information to txt file
+		# writes winning county information to txt_file
 		txt_file.write(winning_county_summary)
 
 		# count and percentage of votes won for each candidate 
